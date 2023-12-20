@@ -1,6 +1,6 @@
 # weather_app
-Weather app for some city.
-Отображает текущую погоду в определенном городе.
+/nWeather app for some city.
+/nОтображает текущую погоду в определенном городе.
 
 Архитектура проекта:
   импорт библиотек requests и json
